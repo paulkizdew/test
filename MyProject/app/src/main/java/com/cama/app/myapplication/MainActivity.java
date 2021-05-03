@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         // I started developing feature 7 here
         // And here
         // TODO We removed totally the button
+
+        // I need changes from feature 7 on feature 8 here
+        // And I am dependent on feature 8 here
     }
 }
