@@ -11,11 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // I started developing feature 7 here
+        // I started developing feature 10 here
         // And here
-        // TODO We removed totally the button
-
-        // I need changes from feature 7 on feature 8 here
-        // And I am dependent on feature 8 here
+        // I have updated 10 so feature 11 can use it doing rebase
     }
 }
