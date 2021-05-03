@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // I started developing feature 7 here
+        // And here
         // TODO We removed totally the button
     }
 }
