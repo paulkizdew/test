@@ -9,5 +9,6 @@ class SettingsActivity : AppCompatActivity() {
         setContentView(R.layout.activity_settings)
 
         // I started first part of the feature
+        // Second part of the feature
     }
 }
