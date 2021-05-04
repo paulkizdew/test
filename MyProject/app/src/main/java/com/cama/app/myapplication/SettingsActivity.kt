@@ -8,6 +8,8 @@ class SettingsActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_settings)
 
+        // I am working on NEWS-16 from develop in parallel
+
         // I started first part of the feature
         // Second part of the feature
         // Third part of the feature
