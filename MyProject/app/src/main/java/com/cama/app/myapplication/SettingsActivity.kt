@@ -10,5 +10,6 @@ class SettingsActivity : AppCompatActivity() {
 
         // I started first part of the feature
         // Second part of the feature
+        // Third part of the feature
     }
 }
