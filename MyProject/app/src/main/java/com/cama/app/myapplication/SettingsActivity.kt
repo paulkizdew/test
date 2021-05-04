@@ -14,5 +14,10 @@ class SettingsActivity : AppCompatActivity() {
         // Second part of the feature
         // Third part of the feature
         // Corrections after review
+
+        // First changes for NEWS-17
+        // Second changes for NEWS-17
+        // Third changes for NEWS-17
+        // Fourth changes for NEWS-17
     }
 }
