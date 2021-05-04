@@ -17,5 +17,6 @@ class SettingsActivity : AppCompatActivity() {
 
         // First changes for NEWS-17
         // Second changes for NEWS-17
+        // Third changes for NEWS-17
     }
 }
