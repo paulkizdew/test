@@ -16,5 +16,6 @@ class SettingsActivity : AppCompatActivity() {
         // Corrections after review
 
         // First changes for NEWS-17
+        // Second changes for NEWS-17
     }
 }
